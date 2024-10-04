@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.8.34511.84
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "prodigy_fs_02.Server", "prodigy_fs_02.Server\prodigy_fs_02.Server.csproj", "{B767DD48-FC71-4844-A80F-CCCDDA1D584C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "API", "API\API.csproj", "{B767DD48-FC71-4844-A80F-CCCDDA1D584C}"
 EndProject
-Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "prodigy_fs_02.client", "prodigy_fs_02.client\prodigy_fs_02.client.esproj", "{CB39DC1C-EFD4-4440-ADE1-42898918396A}"
+Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "client", "client\client.esproj", "{CB39DC1C-EFD4-4440-ADE1-42898918396A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

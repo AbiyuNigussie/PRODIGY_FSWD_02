@@ -26,7 +26,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\prodigy_fs_02.client\prodigy_fs_02.client.esproj">
+    <ProjectReference Include="..\prodigy_fs_02.client\client.esproj">
       <ReferenceOutputAssembly>false</ReferenceOutputAssembly>
     </ProjectReference>
   </ItemGroup>
