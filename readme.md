@@ -71,7 +71,7 @@ Technologies used:
 1. **Clone the repository**:
 
    ```bash
-   git clone https://github.com/yourusername/employee-management-system.git
+   git clone https://github.com/AbiyuNigussie/ems_react_dotnet.git
    cd employee-management-system/API
    ```
 
